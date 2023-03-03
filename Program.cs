@@ -1,10 +1,10 @@
-﻿namespace PowerOfTwo
+﻿namespace HarmonicNumber
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            powerOfTwo.number();
+            harmonicNumber.harmonic();
         }
     }
 }
