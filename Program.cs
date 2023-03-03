@@ -1,12 +1,10 @@
-﻿namespace Primefactors
+﻿namespace PowerOfTwo
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            primeFactors.factors();
-
-
+            powerOfTwo.number();
         }
     }
 }
